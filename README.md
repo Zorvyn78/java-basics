@@ -9,7 +9,7 @@
 
 ## 项目结构
 
-代码按学习主题分成了 6 个包（文件夹），每个包对应一个 Java `package`：
+代码按学习主题分成了 7 个包（文件夹），每个包对应一个 Java `package`：
 
 ```
 untitled/
@@ -18,7 +18,8 @@ untitled/
 │   ├── variables/  # 字面量、数据类型、变量
 │   ├── operators/  # 运算符（算术、赋值、比较、逻辑、三元）
 │   ├── scanner/    # 键盘录入（Scanner）
-│   ├── ifelse/     # if 判断（if / else if / 嵌套 if）
+│   ├── ifelse/     # 分支（if / else if / switch）
+│   ├── loop/       # 循环（for、while）
 │   └── exercises/  # 综合练习
 ├── README.md
 └── .gitignore
@@ -86,7 +87,7 @@ java -cp out operators.LogicoperatorDemo1
 | `ScannerDemo1.java` | Scanner 使用三步：导包、创建对象、接收数据 |
 | `ScannerTest.java` | 练习：键盘录入两个数并求和 |
 
-### ifelse —— if 判断
+### ifelse —— 分支（if / switch）
 
 | 文件 | 内容 |
 |:---|:---|
@@ -98,6 +99,23 @@ java -cp out operators.LogicoperatorDemo1
 | `Test10.java` | 练习：按票号奇偶决定坐左边还是右边 |
 | `Test11.java` | 练习：成绩奖励（嵌套 if 判断成绩是否合法） |
 | `Test12.java` | 练习：会员等级折扣（if-else if） |
+| `SwitchDemo1.java` | switch 的基本用法：按面食种类决定吃什么 |
+| `Test13.java` | 练习：switch 按星期几决定运动项目 |
+
+### loop —— 循环（for / while）
+
+| 文件 | 内容 |
+|:---|:---|
+| `ForDemo1.java` | for 循环：重复打印 10 次 |
+| `WhileDemo1.java` | while 循环：打印 1~100 |
+| `Test14.java` | 练习：for 正序 1~5 + 倒序 5~1 |
+| `Test15.java` | 练习：倒计时（5 秒后自动重连） |
+| `Test16.java` | 练习：1~5 累加求和（累加变量要定义在循环外） |
+| `Test17.java` | 练习：1~100 的偶数和 |
+| `Test18.java` | 练习：统计范围内同时是 3 和 5 的倍数的个数 |
+| `Test19.java` | 练习：纸张对折多少次能超过珠穆朗玛峰高度 |
+| `Test20.java` | 练习：回文数判断（数字反转） |
+| `Test21.java` | 练习：用减法实现除法（统计能减几次） |
 
 ### exercises —— 综合练习
 

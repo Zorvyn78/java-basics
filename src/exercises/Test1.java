@@ -2,7 +2,7 @@ package exercises;
 import java.util.Scanner;
 
 public class Test1 {
-public static void main(String[] args) {
+    public static void main(String[] args) {
         byte b1 =10;
         byte b2=20;
         byte result =(byte)(b1+b2);
