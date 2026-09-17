@@ -116,6 +116,11 @@ java -cp out operators.LogicoperatorDemo1
 | `Test19.java` | 练习：纸张对折多少次能超过珠穆朗玛峰高度 |
 | `Test20.java` | 练习：回文数判断（数字反转） |
 | `Test21.java` | 练习：用减法实现除法（统计能减几次） |
+| `InfiniteloopDemo1.java` | 无限循环：`while(true)` 永远执行 |
+| `SkipLoopDemo1.java` | `continue`：跳过某一次循环（跳过第 3 个包子） |
+| `SkipLoopDemo2.java` | `break`：结束整个循环（吃到第 3 个就停） |
+| `LoopTest1.java` | 练习：逢 7 过（含 7 或 7 的倍数输出「过」，continue） |
+| `LoopTest2.java` | 练习：求一个数的平方根（break 提前结束） |
 
 ### exercises —— 综合练习
 
