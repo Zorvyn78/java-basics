@@ -121,6 +121,10 @@ java -cp out operators.LogicoperatorDemo1
 | `SkipLoopDemo2.java` | `break`：结束整个循环（吃到第 3 个就停） |
 | `LoopTest1.java` | 练习：逢 7 过（含 7 或 7 的倍数输出「过」，continue） |
 | `LoopTest2.java` | 练习：求一个数的平方根（break 提前结束） |
+| `LoopTest3.java` | 练习：判断一个数是否为质数（flag + break） |
+| `LoopTest5.java` | 练习：Random 生成随机数（0~100） |
+| `LoopTest6.java` | 练习：生成任意区间随机数的技巧（包头不包尾） |
+| `LoopTest7.java` | 练习：猜数字游戏（while 无限循环 + break） |
 
 ### exercises —— 综合练习
 
