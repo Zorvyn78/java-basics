@@ -20,6 +20,7 @@ untitled/
 │   ├── scanner/    # 键盘录入（Scanner）
 │   ├── ifelse/     # 分支（if / else if / switch）
 │   ├── loop/       # 循环（for、while）
+│   ├── array/      # 数组（定义、索引、遍历、练习）
 │   └── exercises/  # 综合练习
 ├── README.md
 └── .gitignore
@@ -125,6 +126,17 @@ java -cp out operators.LogicoperatorDemo1
 | `LoopTest5.java` | 练习：Random 生成随机数（0~100） |
 | `LoopTest6.java` | 练习：生成任意区间随机数的技巧（包头不包尾） |
 | `LoopTest7.java` | 练习：猜数字游戏（while 无限循环 + break） |
+
+### array —— 数组
+
+| 文件 | 内容 |
+|:---|:---|
+| `ArrayDemo1.java` | 数组的两种定义格式 + 地址值含义（`[D@776ec8df` 解读） |
+| `ArrayDemo2.java` | 用索引访问数组元素（获取 `arr[0]`、修改 `arr[0]=100`） |
+| `ArrayDemo3.java` | 用 for 循环遍历数组（`arr.length`） |
+| `ArrTest1.java` | 练习：数组求和 |
+| `ArrTest2.java` | 练习：统计数组中 3 的倍数的个数 |
+| `ArrTest3.java` | 练习：偶数 ÷2、奇数 ×2 后再输出（两个循环分开写） |
 
 ### exercises —— 综合练习
 
