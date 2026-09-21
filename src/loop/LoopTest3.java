@@ -16,9 +16,11 @@ public class LoopTest3 {
     int number= sc.nextInt();
     boolean flag=true;
     //2.判断
-    //写一个循环，从2开始判断，一直判断到number-1为止
-    //看这个范围之内，有没有数字可以被number整除
-    for (int i = 2; i < number; i++) {
+    //写一个循环，从2开始判断，只判断到√number为止
+    //原因:因子成对出现(如12=2×6=3×4)，每一对里小的那个一定≤√number，
+    //     所以查到√number就够了，比查到number-1省一大半循环
+    //实现:用i*i<=number判断，等价于i<=√number，且不引入浮点数
+    for (int i = 2; i * i <= number; i++) {
 
         //i依次表示这个范围之内的每一个数字
         //看number是否能被i整除就可以了

@@ -122,10 +122,11 @@ java -cp out operators.LogicoperatorDemo1
 | `SkipLoopDemo2.java` | `break`：结束整个循环（吃到第 3 个就停） |
 | `LoopTest1.java` | 练习：逢 7 过（含 7 或 7 的倍数输出「过」，continue） |
 | `LoopTest2.java` | 练习：求一个数的平方根（break 提前结束） |
-| `LoopTest3.java` | 练习：判断一个数是否为质数（flag + break） |
+| `LoopTest3.java` | 练习：判断一个数是否为质数（flag + break，上界优化到 √n） |
 | `LoopTest5.java` | 练习：Random 生成随机数（0~100） |
 | `LoopTest6.java` | 练习：生成任意区间随机数的技巧（包头不包尾） |
 | `LoopTest7.java` | 练习：猜数字游戏（while 无限循环 + break） |
+| `TriangleTest.java` | 练习：打印等腰三角形（嵌套循环，先空格后星号） |
 
 ### array —— 数组
 
@@ -137,6 +138,8 @@ java -cp out operators.LogicoperatorDemo1
 | `ArrTest1.java` | 练习：数组求和 |
 | `ArrTest2.java` | 练习：统计数组中 3 的倍数的个数 |
 | `ArrTest3.java` | 练习：偶数 ÷2、奇数 ×2 后再输出（两个循环分开写） |
+| `RandomArrayTest.java` | 练习：生成 10 个 1~100 随机数存入数组并打印（写/读两个循环） |
+| `ArrayReverseTest.java` | 练习：反转数组（双指针 i++/j-- 对称交换） |
 
 ### exercises —— 综合练习
 
