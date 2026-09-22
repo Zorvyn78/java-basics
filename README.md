@@ -66,6 +66,7 @@ java -cp out operators.LogicoperatorDemo1
 | `VariableTest2.java` | 练习：个人信息（姓名/年龄/性别/身高） |
 | `VariableTest3.java` | 练习：电影信息输出 |
 | `VariableTest4.java` | 练习：手机价格与品牌 |
+| `SwapTest.java` | 练习：交换两个变量的值（第三方变量，空杯子思路） |
 
 ### operators —— 运算符
 
@@ -135,9 +136,15 @@ java -cp out operators.LogicoperatorDemo1
 | `ArrayDemo1.java` | 数组的两种定义格式 + 地址值含义（`[D@776ec8df` 解读） |
 | `ArrayDemo2.java` | 用索引访问数组元素（获取 `arr[0]`、修改 `arr[0]=100`） |
 | `ArrayDemo3.java` | 用 for 循环遍历数组（`arr.length`） |
+| `ArrayDemo4.java` | 数组默认初始化值的规律（整数0/小数0.0/字符空格/布尔false/引用null） |
+| `ArrayDemo5.java` | 索引越界异常：原因与避免（索引范围 0~长度-1） |
 | `ArrTest1.java` | 练习：数组求和 |
 | `ArrTest2.java` | 练习：统计数组中 3 的倍数的个数 |
 | `ArrTest3.java` | 练习：偶数 ÷2、奇数 ×2 后再输出（两个循环分开写） |
+| `ArrTest4.java` | 练习：求数组最大值（max 初始值必须是数组中的值） |
+| `ArrTest5.java` | 练习：随机数数组求和、平均值、统计比平均小的个数 |
+| `ArrTest7.java` | 练习：交换首尾元素（0索引和最大索引，第三方变量） |
+| `ArrTest9.java` | 练习：随机打乱数组顺序（洗牌，随机索引交换） |
 | `RandomArrayTest.java` | 练习：生成 10 个 1~100 随机数存入数组并打印（写/读两个循环） |
 | `ArrayReverseTest.java` | 练习：反转数组（双指针 i++/j-- 对称交换） |
 
