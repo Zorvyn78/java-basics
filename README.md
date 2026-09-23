@@ -9,7 +9,7 @@
 
 ## 项目结构
 
-代码按学习主题分成了 7 个包（文件夹），每个包对应一个 Java `package`：
+代码按学习主题分成了 8 个包（文件夹），每个包对应一个 Java `package`：
 
 ```
 untitled/
@@ -20,6 +20,7 @@ untitled/
 │   ├── scanner/    # 键盘录入（Scanner）
 │   ├── ifelse/     # 分支（if / else if / switch）
 │   ├── loop/       # 循环（for、while）
+│   ├── method/     # 方法（定义、调用）
 │   ├── array/      # 数组（定义、索引、遍历、练习）
 │   └── exercises/  # 综合练习
 ├── README.md
@@ -128,6 +129,14 @@ java -cp out operators.LogicoperatorDemo1
 | `LoopTest6.java` | 练习：生成任意区间随机数的技巧（包头不包尾） |
 | `LoopTest7.java` | 练习：猜数字游戏（while 无限循环 + break） |
 | `TriangleTest.java` | 练习：打印等腰三角形（嵌套循环，先空格后星号） |
+
+### method —— 方法
+
+| 文件 | 内容 |
+|:---|:---|
+| `MethodDemo1.java` | 方法的定义与多次调用（模拟打游戏流程） |
+| `MethodDemo2.java` | 方法练习：打印女朋友信息 |
+| `MethodDemo3.java` | 方法练习：求两个数的和并输出 |
 
 ### array —— 数组
 
