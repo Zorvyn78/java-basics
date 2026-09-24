@@ -137,6 +137,11 @@ java -cp out operators.LogicoperatorDemo1
 | `MethodDemo1.java` | 方法的定义与多次调用（模拟打游戏流程） |
 | `MethodDemo2.java` | 方法练习：打印女朋友信息 |
 | `MethodDemo3.java` | 方法练习：求两个数的和并输出 |
+| `MethodDemo4.java` | 方法带参数：求两个整数的和 |
+| `MethodDemo5.java` | 方法带返回值：求三个小数的和（三种调用方式） |
+| `MethodTest1.java` | 练习：方法求长方形周长 |
+| `MethodTest2.java` | 练习：方法求圆面积（π取3.14） |
+| `MethodTest3.java` | 练习：方法求面积并比较两个长方形（方法抽取思想） |
 
 ### array —— 数组
 
