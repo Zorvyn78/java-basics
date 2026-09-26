@@ -129,6 +129,7 @@ java -cp out operators.LogicoperatorDemo1
 | `LoopTest6.java` | 练习：生成任意区间随机数的技巧（包头不包尾） |
 | `LoopTest7.java` | 练习：猜数字游戏（while 无限循环 + break） |
 | `TriangleTest.java` | 练习：打印等腰三角形（嵌套循环，先空格后星号） |
+| `CharTriangleTest.java` | 练习（洛谷 B2005）：给定字符构造底 5 高 3 的等腰字符三角形 |
 
 ### method —— 方法
 
