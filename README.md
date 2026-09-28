@@ -143,6 +143,10 @@ java -cp out operators.LogicoperatorDemo1
 | `MethodTest1.java` | 练习：方法求长方形周长 |
 | `MethodTest2.java` | 练习：方法求圆面积（π取3.14） |
 | `MethodTest3.java` | 练习：方法求面积并比较两个长方形（方法抽取思想） |
+| `MethodTest4.java` | 练习：方法重载——compare 的 byte/short/int/long 四个版本 |
+| `MethodTest5.java` | 练习：方法遍历数组并打印为 `[11,22,33]` 格式 |
+| `MethodTest6.java` | 练习：方法求数组最大值（参数为数组） |
+| `MethodTest7.java` | 练习：方法判断数组是否包含指定元素（返回 boolean） |
 
 ### array —— 数组
 
