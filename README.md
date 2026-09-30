@@ -147,6 +147,7 @@ java -cp out operators.LogicoperatorDemo1
 | `MethodTest5.java` | 练习：方法遍历数组并打印为 `[11,22,33]` 格式 |
 | `MethodTest6.java` | 练习：方法求数组最大值（参数为数组） |
 | `MethodTest7.java` | 练习：方法判断数组是否包含指定元素（返回 boolean） |
+| `MethodTest8.java` | 练习：方法拷贝数组区间（copyOfRange，包头不包尾，双下标） |
 
 ### array —— 数组
 
