@@ -130,6 +130,7 @@ java -cp out operators.LogicoperatorDemo1
 | `LoopTest7.java` | 练习：猜数字游戏（while 无限循环 + break） |
 | `TriangleTest.java` | 练习：打印等腰三角形（嵌套循环，先空格后星号） |
 | `CharTriangleTest.java` | 练习（洛谷 B2005）：给定字符构造底 5 高 3 的等腰字符三角形 |
+| `ZhlxTest2.java` | 综合练习：统计 101~200 之间质数的个数并打印 |
 
 ### method —— 方法
 
@@ -148,6 +149,8 @@ java -cp out operators.LogicoperatorDemo1
 | `MethodTest6.java` | 练习：方法求数组最大值（参数为数组） |
 | `MethodTest7.java` | 练习：方法判断数组是否包含指定元素（返回 boolean） |
 | `MethodTest8.java` | 练习：方法拷贝数组区间（copyOfRange，包头不包尾，双下标） |
+| `MethodTest9.java` | 练习：方法传值（基本类型拷贝值，方法内修改不影响实参） |
+| `MethodTest10.java` | 练习：方法传引用（数组传地址，方法内修改影响原数组） |
 
 ### array —— 数组
 
@@ -177,6 +180,7 @@ java -cp out operators.LogicoperatorDemo1
 | `Test3.java` | 练习：判断两个整数是否满足 6 的倍数条件 |
 | `Test4.java` | 练习：两只老虎体重是否相同（三元运算符） |
 | `Test5.java` | 练习：三个人的身高，求最大值 |
+| `ZhlxTest1.java` | 综合练习：机票淡旺季折扣计算（分支 + 方法带返回值） |
 
 ## 学习路线
 
