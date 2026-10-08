@@ -170,6 +170,7 @@ java -cp out operators.LogicoperatorDemo1
 | `ArrTest9.java` | 练习：随机打乱数组顺序（洗牌，随机索引交换） |
 | `RandomArrayTest.java` | 练习：生成 10 个 1~100 随机数存入数组并打印（写/读两个循环） |
 | `ArrayReverseTest.java` | 练习：反转数组（双指针 i++/j-- 对称交换） |
+| `ZhlxTest4.java` | 综合练习：把数组内容复制到新数组（遍历逐个赋值） |
 
 ### exercises —— 综合练习
 
@@ -181,6 +182,8 @@ java -cp out operators.LogicoperatorDemo1
 | `Test4.java` | 练习：两只老虎体重是否相同（三元运算符） |
 | `Test5.java` | 练习：三个人的身高，求最大值 |
 | `ZhlxTest1.java` | 综合练习：机票淡旺季折扣计算（分支 + 方法带返回值） |
+| `ZhlxTest3.java` | 综合练习：生成 7 位随机验证码（6 字母 + 1 数字） |
+| `ZhlxTest5.java` | 综合练习：评委打分去最高最低求平均（if 分号陷阱 + 整数除法） |
 
 ## 学习路线
 
