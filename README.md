@@ -171,6 +171,7 @@ java -cp out operators.LogicoperatorDemo1
 | `RandomArrayTest.java` | 练习：生成 10 个 1~100 随机数存入数组并打印（写/读两个循环） |
 | `ArrayReverseTest.java` | 练习：反转数组（双指针 i++/j-- 对称交换） |
 | `ZhlxTest4.java` | 综合练习：把数组内容复制到新数组（遍历逐个赋值） |
+| `ZhlxTest6.java` | 综合练习：数字加密（每位+5 → %10 → 反转 → 拼接） |
 
 ### exercises —— 综合练习
 
