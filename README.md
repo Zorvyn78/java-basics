@@ -172,6 +172,8 @@ java -cp out operators.LogicoperatorDemo1
 | `ArrayReverseTest.java` | 练习：反转数组（双指针 i++/j-- 对称交换） |
 | `ZhlxTest4.java` | 综合练习：把数组内容复制到新数组（遍历逐个赋值） |
 | `ZhlxTest6.java` | 综合练习：数字加密（每位+5 → %10 → 反转 → 拼接） |
+| `ZhlxTest7.java` | 综合练习：数字拆位（数字 → 数组，先算位数再按 `arr.length-1` 倒着填） |
+| `ZhlxTest8.java` | 综合练习：数字解密（`ZhlxTest6` 的逆运算：反转 → ≤4 补回10 → 每位-5 → 拼接） |
 
 ### exercises —— 综合练习
 
