@@ -175,6 +175,7 @@ java -cp out operators.LogicoperatorDemo1
 | `ZhlxTest7.java` | 综合练习：数字拆位（数字 → 数组，先算位数再按 `arr.length-1` 倒着填） |
 | `ZhlxTest8.java` | 综合练习：数字解密（`ZhlxTest6` 的逆运算：反转 → ≤4 补回10 → 每位-5 → 拼接） |
 | `ZhlxTest9.java` | 综合练习：抽奖/洗牌（随机索引交换打乱奖品顺序） |
+| `ZhlxTest11.java` | 综合练习：双色球（生成开奖号码 + 键盘输入比对 + 中奖等级判断） |
 
 ### exercises —— 综合练习
 
