@@ -161,6 +161,9 @@ java -cp out operators.LogicoperatorDemo1
 | `ArrayDemo3.java` | 用 for 循环遍历数组（`arr.length`） |
 | `ArrayDemo4.java` | 数组默认初始化值的规律（整数0/小数0.0/字符空格/布尔false/引用null） |
 | `ArrayDemo5.java` | 索引越界异常：原因与避免（索引范围 0~长度-1） |
+| `TwoDimensionDemo1.java` | 二维数组：静态初始化（完整格式/简写格式）+ 嵌套 for 遍历（每行长度可不同） |
+| `TwoDimensionDemo2.java` | 二维数组：动态初始化 `new int[3][5]` + 默认值规律 |
+| `TwoDimensionDemo3.java` | 二维数组练习：四个季度营业额求和（外层取行、内层用方法求和） |
 | `ArrTest1.java` | 练习：数组求和 |
 | `ArrTest2.java` | 练习：统计数组中 3 的倍数的个数 |
 | `ArrTest3.java` | 练习：偶数 ÷2、奇数 ×2 后再输出（两个循环分开写） |
