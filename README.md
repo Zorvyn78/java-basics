@@ -9,7 +9,7 @@
 
 ## 项目结构
 
-代码按学习主题分成了 9 个包（文件夹），每个包对应一个 Java `package`：
+代码按学习主题分成了 10 个包（文件夹），每个包对应一个 Java `package`：
 
 ```
 untitled/
@@ -22,6 +22,7 @@ untitled/
 │   ├── loop/       # 循环（for、while）
 │   ├── method/     # 方法（定义、调用）
 │   ├── array/      # 数组（定义、索引、遍历、练习）
+│   ├── oop/        # 面向对象（类、对象、属性、方法）
 │   └── exercises/  # 综合练习
 ├── README.md
 └── .gitignore
@@ -192,6 +193,15 @@ java -cp out operators.LogicoperatorDemo1
 | `ZhlxTest1.java` | 综合练习：机票淡旺季折扣计算（分支 + 方法带返回值） |
 | `ZhlxTest3.java` | 综合练习：生成 7 位随机验证码（6 字母 + 1 数字） |
 | `ZhlxTest5.java` | 综合练习：评委打分去最高最低求平均（if 分号陷阱 + 整数除法） |
+
+### oop —— 面向对象
+
+| 文件 | 内容 |
+|:---|:---|
+| `Phone.java` | 类的定义：属性（brand/price）+ 方法（call/PlayGame） |
+| `PhoneTest.java` | 创建对象、给属性赋值、调用方法（一个类可以创建多个互不干扰的对象） |
+| `GirlFriend.java` | 类的定义：属性（name/age/gender）+ 方法（eat/sleep） |
+| `GirlFriendTest2.java` | 练习：创建两个 GirlFriend 对象，分别赋值并调用方法 |
 
 ## 学习路线
 
