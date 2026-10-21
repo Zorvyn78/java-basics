@@ -1,4 +1,4 @@
-package loop;
+package algorithm.pattern;
 
 import java.util.Scanner;
 

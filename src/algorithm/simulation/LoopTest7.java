@@ -1,4 +1,4 @@
-package loop;
+package algorithm.simulation;
 import java.util.Scanner;
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package loop;
+package algorithm.number;
 
 public class ZhlxTest2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package loop;
+package algorithm.number;
 import java.util.Scanner;
 
 public class LoopTest2 {

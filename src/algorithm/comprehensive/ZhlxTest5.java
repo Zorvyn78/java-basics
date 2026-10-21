@@ -1,4 +1,4 @@
-package exercises;
+package algorithm.comprehensive;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package array;
+package algorithm.array;
 
 public class ArrayReverseTest {
     public static void main(String[] args) {

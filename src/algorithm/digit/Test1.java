@@ -1,4 +1,4 @@
-package exercises;
+package algorithm.digit;
 import java.util.Scanner;
 
 public class Test1 {

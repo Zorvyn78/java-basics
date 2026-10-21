@@ -1,4 +1,4 @@
-package loop;
+package algorithm.simulation;
 
 public class LoopTest1 {
     public static void main(String[] args) {

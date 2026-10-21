@@ -1,4 +1,4 @@
-package loop;
+package algorithm.number;
 
 public class Test20 {
     public static void main(String[] args) {

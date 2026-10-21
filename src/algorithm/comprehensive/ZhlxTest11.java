@@ -1,4 +1,4 @@
-package array;
+package algorithm.comprehensive;
 
 import java.util.Random;
 import java.util.Scanner;

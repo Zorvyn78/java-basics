@@ -1,4 +1,4 @@
-package exercises;
+package algorithm.random;
 
 import java.util.Random;
 

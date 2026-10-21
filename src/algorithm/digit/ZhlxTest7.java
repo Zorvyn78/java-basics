@@ -1,4 +1,4 @@
-package array;
+package algorithm.digit;
 
 public class ZhlxTest7 {
     public static void main(String[] args) {
