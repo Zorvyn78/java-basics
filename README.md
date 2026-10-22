@@ -22,7 +22,8 @@ untitled/
 │   ├── loop/         # 循环（for、while、break、continue）
 │   ├── method/       # 方法（定义、调用、重载、传值/传引用）
 │   ├── array/        # 数组（定义、索引、遍历、二维数组）
-│   ├── oop/          # 面向对象（类、对象、属性、方法）
+│   ├── oop/          # 面向对象（类、对象、封装、getter/setter）
+│   ├── string/       # 字符串（String 常用方法）
 │   ├── exercises/    # 综合练习
 │   └── algorithm/    # 算法专题：按算法类型归档
 │       ├── number/        # 数值算法
@@ -183,8 +184,14 @@ java -cp out algorithm.pattern.TriangleTest  # 打印等腰三角形
 |:---|:---|
 | `Phone.java` | 类的定义：属性（brand/price）+ 方法（call/PlayGame） |
 | `PhoneTest.java` | 创建对象、给属性赋值、调用方法（一个类可以创建多个互不干扰的对象） |
-| `GirlFriend.java` | 类的定义：属性（name/age/gender）+ 方法（eat/sleep） |
-| `GirlFriendTest2.java` | 练习：创建两个 GirlFriend 对象，分别赋值并调用方法 |
+| `GirlFriend.java` | 封装：属性用 `private` 修饰，提供 `getXxx/setXxx`；`setAge` 校验 18~50，非法值打印「非法参数」 |
+| `GirlFriendTest2.java` | 练习：通过 setter/getter 操作两个对象（不再直接访问属性） |
+
+### string —— 字符串
+
+| 文件 | 内容 |
+|:---|:---|
+| `StringTest.java` | String 常用方法入门：`length()` 求长度、`toUpperCase()` 转大写 |
 
 ### exercises —— 综合练习
 
