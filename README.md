@@ -190,6 +190,8 @@ java -cp out algorithm.pattern.TriangleTest  # 打印等腰三角形
 | `PhoneTest.java` | 创建对象、给属性赋值、调用方法（一个类可以创建多个互不干扰的对象） |
 | `GirlFriend.java` | 封装：属性用 `private` 修饰，提供 `getXxx/setXxx`；`setAge` 校验 18~50，非法值打印「非法参数」 |
 | `GirlFriendTest2.java` | 练习：通过 setter/getter 操作两个对象（不再直接访问属性） |
+| `Student.java` | 构造方法：无参构造 + 有参构造（构成重载），有参构造用 `this` 给成员变量赋值 |
+| `StudentTest.java` | 调用有参构造创建对象，用 `getName()/getAge()` 验证赋值结果 |
 
 ### string —— 字符串
 
