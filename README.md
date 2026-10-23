@@ -83,6 +83,10 @@ java -cp out algorithm.pattern.TriangleTest  # 打印等腰三角形
 | `VariableTest3.java` | 练习：电影信息输出 |
 | `VariableTest4.java` | 练习：手机价格与品牌 |
 | `SwapTest.java` | 练习：交换两个变量的值（第三方变量，空杯子思路） |
+| `GirlFriend.java` | 成员变量与局部变量同名：`println(age)` 取局部变量（就近原则）→ 输出 10 |
+| `GirlFriend1.java` | 同上，但 `println(this.age)` 取成员变量 → 输出 0 |
+| `GirlFriendTest.java` | 调用 `GirlFriend.method()`，验证就近原则 |
+| `GirlFriendTest1.java` | 调用 `GirlFriend1.method()`，验证 `this` 取成员变量 |
 
 ### operators —— 运算符
 
