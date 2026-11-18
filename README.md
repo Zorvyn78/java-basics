@@ -108,6 +108,7 @@ java -cp out algorithm.pattern.TriangleTest  # 打印等腰三角形
 | 文件 | 内容 |
 |:---|:---|
 | `ScannerDemo1.java` | Scanner 使用三步：导包、创建对象、接收数据 |
+| `ScannerDemo2.java` | Scanner 录入小数：`nextDouble()` 接收小数并输出 |
 | `ScannerTest.java` | 练习：键盘录入两个数并求和 |
 
 ### ifelse —— 分支（if / switch）
