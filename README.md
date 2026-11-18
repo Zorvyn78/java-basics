@@ -25,6 +25,7 @@ untitled/
 │   ├── oop/          # 面向对象（类、对象、封装、getter/setter）
 │   ├── string/       # 字符串（String 常用方法）
 │   ├── exercises/    # 综合练习
+│   ├── system/       # 学生管理系统（对象数组增删练习）
 │   └── algorithm/    # 算法专题：按算法类型归档
 │       ├── number/        # 数值算法
 │       ├── digit/         # 数字拆解与编解码
@@ -208,6 +209,14 @@ java -cp out algorithm.pattern.TriangleTest  # 打印等腰三角形
 | `Test4.java` | 练习：两只老虎体重是否相同（三元运算符） |
 | `Test5.java` | 练习：三个人的身高，求最大值 |
 | `ZhlxTest1.java` | 综合练习：机票淡旺季折扣计算（分支 + 方法带返回值） |
+
+### system —— 学生管理系统
+
+| 文件 | 内容 |
+|:---|:---|
+| `Student.java` | 学生实体类：id/name/age + 无参/有参构造 + getter/setter |
+| `Test.java` | 添加学生：按 id 判重，数组满时扩容后添加，遍历打印 |
+| `Test3.java` | 删除学生：按 id 查找下标，找到后置为 null，查不到提示删除失败 |
 
 ### algorithm —— 算法专题（按算法类型归档）
 
