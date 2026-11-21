@@ -200,6 +200,7 @@ java -cp out algorithm.pattern.TriangleTest  # 打印等腰三角形
 | 文件 | 内容 |
 |:---|:---|
 | `StringTest.java` | String 常用方法入门：`length()` 求长度、`toUpperCase()` 转大写 |
+| `StringDemo1.java` | String 对象的 5 种创建方式：字面量、空参构造、带参构造、char 数组、byte 数组 |
 
 ### exercises —— 综合练习
 
