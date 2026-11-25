@@ -203,6 +203,7 @@ java -cp out algorithm.pattern.TriangleTest  # 打印等腰三角形
 | `StringDemo1.java` | String 对象的 5 种创建方式：字面量、空参构造、带参构造、char 数组、byte 数组 |
 | `StringDemo2.java` | String 比较：`==` 比地址（false）、`equals` 比内容（false）、`equalsIgnoreCase` 忽略大小写（true） |
 | `StringDemo3.java` | 键盘录入字符串的 `==` 陷阱：Scanner 录入的是新对象，输入 abc 仍打印 false，应改用 equals |
+| `StringDemo4.java` | 模拟登录：用户名密码用 equals 校验，3 次机会，失败次数用完锁定账号 |
 
 ### exercises —— 综合练习
 
